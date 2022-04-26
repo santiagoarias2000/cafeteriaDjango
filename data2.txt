@@ -1,0 +1,10 @@
+(1, 'cafeteria1', 'direccion', 'tunja', 'aa', 'zip', 222, 222),
+(2, 'cafeteria1', 'direccion', 'tunja', 'aa', 'zip', 222, 222),
+(3, 'cafeteria1', 'direccion', 'tunja', 'aa', 'zip', 222, 222),
+(4, 'cafeteria1', 'direccion', 'tunja', 'aa', 'zip', 222, 222),
+(5, 'cafeteria1', 'direccion', 'tunja', 'aa', 'zip', 222, 222),
+(6, 'cafeteria1', 'direccion', 'tunja', 'aa', 'zip', 222, 222),
+(7, 'cafeteria1', 'direccion', 'tunja', 'aa', 'zip', 222, 222),
+(8, 'cafeteria1', 'direccion', 'tunja', 'aa', 'zip', 222, 222),
+(9, 'cafeteria1', 'direccion', 'tunja', 'aa', 'zip', 222, 222),
+(10, 'cafeteria1', 'direccion', 'tunja', 'aa', 'zip', 222, 222)
